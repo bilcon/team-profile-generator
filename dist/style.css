@@ -21,15 +21,19 @@ body {
     font-size: 50px;
 }
 
+.jumbotron {
+    background-color: firebrick;
+    color: var(--secondary);
+}
 
 .card-header {
-    background-color: var(--primary);
+    background-color: blue;
     color: var(--secondary);
 }
 
 .card-body {
     background-color: var(--secondary);
-    color: var(--primary);
+    color: black;
 }
 
 .container {
